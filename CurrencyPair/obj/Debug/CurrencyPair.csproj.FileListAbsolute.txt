@@ -1,0 +1,7 @@
+D:\Programs\CurrencyPair\CurrencyPair\bin\Debug\CurrencyPair.exe.config
+D:\Programs\CurrencyPair\CurrencyPair\bin\Debug\CurrencyPair.exe
+D:\Programs\CurrencyPair\CurrencyPair\bin\Debug\CurrencyPair.pdb
+D:\Programs\CurrencyPair\CurrencyPair\obj\Debug\CurrencyPair.csprojAssemblyReference.cache
+D:\Programs\CurrencyPair\CurrencyPair\obj\Debug\CurrencyPair.csproj.CoreCompileInputs.cache
+D:\Programs\CurrencyPair\CurrencyPair\obj\Debug\CurrencyPair.exe
+D:\Programs\CurrencyPair\CurrencyPair\obj\Debug\CurrencyPair.pdb
